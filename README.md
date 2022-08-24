@@ -9,3 +9,5 @@ Source code is not available, Sorry!
 
 - Win64 : .\BVA.exe {VRM file(eg:6.vrm)} {BVA file(eg:6.bva)} 
 - Linux : LinuxServer.x64_x86 {VRM file(eg:6.vrm)} {BVA file(eg:6.bva)} 
+
+Linux execution binary should execute "chmod +x" firstly
